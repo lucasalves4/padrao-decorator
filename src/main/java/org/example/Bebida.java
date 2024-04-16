@@ -1,2 +1,7 @@
-package org.example;public interface Bebida {
+package org.example;
+
+public interface Bebida {
+
+    float getValorTotal();
+    String getProduto();
 }
